@@ -1,0 +1,15 @@
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Моя Учёба\Програмирование\Lesson2\task3\bin\Debug\net6.0\task3.exe
+C:\Моя Учёба\Програмирование\Lesson2\task3\bin\Debug\net6.0\task3.deps.json
+C:\Моя Учёба\Програмирование\Lesson2\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Моя Учёба\Програмирование\Lesson2\task3\bin\Debug\net6.0\task3.dll
+C:\Моя Учёба\Програмирование\Lesson2\task3\bin\Debug\net6.0\task3.pdb
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.dll
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.pdb
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Моя Учёба\Програмирование\Lesson2\task3\obj\Debug\net6.0\ref\task3.dll
